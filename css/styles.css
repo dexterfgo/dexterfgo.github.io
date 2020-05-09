@@ -4,7 +4,7 @@ html {
 	font-family: 'Roboto', sans-serif;
 }
 
-img {
+.dp {
 	margin-bottom: -0.20rem;
 	margin-left: 0.675rem;;
 	width: 6rem;
@@ -55,6 +55,12 @@ main > .intro {
 	font-family: 'Reem Kufi', sans-serif;
 	font-size: 3.75em;
 	font-weight: 600;
+}
+
+main > .subintro {
+	font-family: 'Reem Kufi', sans-serif;
+	font-size: 2em;
+	font-weight: 100;
 }
 
 main > .tagline {
